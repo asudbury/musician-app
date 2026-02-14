@@ -11,8 +11,8 @@
   "author": "Jonathan Spruance",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.20.3",
-    "express": "^4.21.2",
+    "body-parser": "^1.20.4",
+    "express": "^4.22.1",
     "winston": "^3.2.1",
     "yup": "^0.26.10"
   },
